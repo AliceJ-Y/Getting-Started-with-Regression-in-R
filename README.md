@@ -5,15 +5,15 @@ This course introduces you to regression analysis, a commonly used statistical t
 This course consists of two 2-hour sessions that integrate concept-focused discussions and practical R-based activities. By the end of the course, you will understand key regression concepts and be able to perform regression analysis in R.
 
 Key Concepts Covered:
-Variables (Dependent vs. Independent)
-Linearity
-Residuals
-Coefficients (Intercepts vs. Slopes)
+Variables (Dependent vs. Independent);
+Linearity;
+Residuals;
+Coefficients (Intercepts vs. Slopes).
 
 Key Practicals Include:
-Model Fitting
-Checking Model Assumptions
-Visualising Fitted Models
+Model Fitting;
+Checking Model Assumptions;
+Visualising Fitted Models.
 
 While this course is suitable for beginners, a basic understanding of R and statistical analyses is recommended. Participants should ensure R and necessary packages are installed prior to the course.
 
@@ -44,10 +44,11 @@ Go in download
 Download the correspondent version depending on your Operating system and install it. If you get stuck check the videos linked above.
 
 Install R packages and libraries
-install.packages("tidyverse")
-install.packages("effects") 
-install.packages("sjPlot") 
 
-library("tidyverse") #for cleaning and sorting out data
-library("effects") #for creating tables and graphics that illustrate effects in linear models
-library("sjPlot") #for plotting models
+install.packages("tidyverse")
+install.packages("effects")
+install.packages("sjPlot")
+
+library("tidyverse") #for cleaning and sorting out data; 
+library("effects") #for creating tables and graphics that illustrate effects in linear models;
+library("sjPlot") #for plotting models.
