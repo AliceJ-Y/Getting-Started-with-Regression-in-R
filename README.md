@@ -49,6 +49,8 @@ install.packages("tidyverse");
 install.packages("effects");
 install.packages("sjPlot").
 
-library("tidyverse") #for cleaning and sorting out data; 
-library("effects") #for creating tables and graphics that illustrate effects in linear models;
-library("sjPlot") #for plotting models.
+library("tidyverse"); 
+library("effects");
+library("sjPlot").
+
+Notes: "tidyverse" for cleaning and sorting out data; "effects" for creating tables and graphics that illustrate effects in linear models; "sjPlot" for plotting models.
