@@ -5,12 +5,14 @@ This course introduces you to regression analysis, a commonly used statistical t
 This course consists of two 2-hour sessions that integrate concept-focused discussions and practical R-based activities. By the end of the course, you will understand key regression concepts and be able to perform regression analysis in R.
 
 Key Concepts Covered:
-Variables (Dependent vs. Independent);
+
+Variables (Dependent vs. Independent)
 Linearity;
 Residuals;
 Coefficients (Intercepts vs. Slopes).
 
 Key Practicals Include:
+
 Model Fitting;
 Checking Model Assumptions;
 Visualising Fitted Models.
