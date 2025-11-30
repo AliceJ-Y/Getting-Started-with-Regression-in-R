@@ -7,22 +7,22 @@ This course consists of two 2-hour sessions that integrate concept-focused discu
 
 Key Concepts Covered:
 
-Variables (Dependent vs. Independent);
+- Variables (Dependent vs. Independent);
 
-Linearity;
+- Linearity;
 
-Residuals;
+- Residuals;
 
-Coefficients (Intercepts vs. Slopes).
+- Coefficients (Intercepts vs. Slopes).
 
 
 Key Practicals Include:
 
-Model Fitting;
+- Model Fitting;
 
-Checking Model Assumptions;
+- Checking Model Assumptions;
 
-Visualising Fitted Models.
+- Visualising Fitted Models.
 
 While this course is suitable for beginners, a basic understanding of R and statistical analyses is recommended. Participants should ensure R and necessary packages are installed prior to the course.
 
