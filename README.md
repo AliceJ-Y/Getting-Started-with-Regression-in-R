@@ -45,12 +45,16 @@ Download the correspondent version depending on your Operating system and instal
 
 Install R packages and libraries
 
-install.packages("tidyverse");
-install.packages("effects");
-install.packages("sjPlot").
+install.packages("tidyverse")
 
-library("tidyverse"); 
-library("effects");
-library("sjPlot").
+install.packages("effects")
+
+install.packages("sjPlot")
+
+library("tidyverse")
+
+library("effects")
+
+library("sjPlot")
 
 Notes: "tidyverse" for cleaning and sorting out data; "effects" for creating tables and graphics that illustrate effects in linear models; "sjPlot" for plotting models.
